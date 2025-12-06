@@ -1,8 +1,6 @@
 ## Hi there 👋
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=MrSamet13)
 
-[![Views](https://u8views.com/api/v1/github/profiles/KULLANICI_ID/views/day-week-month-total-count.svg)](https://u8views.com/github/MrSamet13)
-
 <!--
 **MrSamet13/MrSamet13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
